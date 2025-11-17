@@ -57,7 +57,7 @@ class Universite
         }
     }
 }
-// Exemple d'utilisation
+// Illustration
 $universite = new Universite("Université de Paris");
 $coursMaths = new Cours("Mathématiques");
 $coursPhysique = new Cours("Physique");
